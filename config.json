@@ -1,0 +1,9 @@
+{
+  "name": "RotateScreen",
+  "version": 1.0,
+  "ios" : {
+    "bundleIdentifier": "com.rotatescreen",
+    "deploymentTarget": 15.0,
+    "deviceFamily": "1,2"
+  }
+}
